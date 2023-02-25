@@ -1,0 +1,27 @@
+body{
+  margin: 0%;
+}
+h1{
+  margin-top: 0%;
+  margin-left: 530;
+  font-family: inherit;
+  font-style: oblique;
+  font-size: 60;
+}
+p{
+  margin-left: 560;
+  font-size: 30;
+}
+div{
+  background-color: DFFFD8;
+}
+.img{
+  margin:40;
+  margin-top: 20;
+}
+.img1{
+  margin-left: 355;
+}
+.img2{
+  margin-left: 1000;
+}
